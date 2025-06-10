@@ -31,7 +31,6 @@ The goal of this project is to build a machine learning model that can detect fr
   - Decision Tree
   - Random Forest
   - Linear SVC
-  - SGDClassifier (SVM Approx)
 
 ---
 
@@ -58,6 +57,4 @@ Because the dataset is imbalanced (very few fraud cases), I used:
 🟢 **Random Forest** clearly performed the best, capturing fraud patterns effectively while avoiding overfitting.
 
 ---
-
-## 📌 Folder Structure
 
